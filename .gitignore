@@ -1,0 +1,5 @@
+output
+data/processed
+data/raw/economy
+notebooks/ipynb_checkpoints
+notebooks/economy.ipynb
