@@ -1,4 +1,4 @@
-# Best places to live and work in the U.S. : Climate
+# Best places to live and work in the U.S.
 I'm in my second year of undergrad, so naturally I've been thinking a lot about where to live once I graduate. In this project, I will explore data to augment my decision making. This project was heavily inspired by the list of best places to live by [U.S. Real Estate News](https://realestate.usnews.com/places/rankings/best-places-to-live). Their list is very compelling, and I was curious about their methods. I also found it difficult to compare two cities. So I decided to jump in myself!
 
 ## Problem definition
